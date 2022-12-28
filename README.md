@@ -2,7 +2,9 @@
 
 ## Uygulama Özellikleri
 Google Sign-In
+
 Firebase (Firestore, Firebase Authentication, Cloud Storage)
+
 MVVM architecture
 ## Uygulama Ekran Görüntüleri
 | | |
